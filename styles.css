@@ -4,15 +4,12 @@ body{
     align-items: center;
     height: 80vh;
     background-color: rgb(242, 210, 255);
-    
-
 }
 
 .box {
     text-align: center;
     width: 250px;
     padding: 20px;
-    
 }
 
 h1 {
